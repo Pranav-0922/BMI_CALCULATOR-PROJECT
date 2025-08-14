@@ -8,10 +8,7 @@ BMI Calculator (Advanced) is a Python application built using Tkinter for the gr
 # Requirements
   Python 3.x
   Any required libraries listed in requirements.txt
-# 📸 Screenshots / Output
-  [2](https://github.com/user-attachments/assets/d09f0a4b-4f04-4473-a4bc-e5028f761574)
-  [3](https://github.com/user-attachments/assets/4852c936-6fb6-4e09-accf-dc4783cd96b8)
-  [4](https://github.com/user-attachments/assets/4cd811f3-15ff-46b9-8be6-e94505ba153e)
+
 # Project Backend Coding
 
 import tkinter as tk
